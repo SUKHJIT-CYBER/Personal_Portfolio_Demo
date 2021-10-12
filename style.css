@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 body {
   display: flex;
   flex-direction: column;
@@ -9,4 +10,6 @@ body {
   background-image: url("https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif");
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 30px;
 }
